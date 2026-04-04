@@ -1,0 +1,7 @@
+Total: 3 cobaias
+Total de coelhos: 1
+Total de ratos: 1
+Total de sapos: 1
+Percentual de coelhos: 33.33 %
+Percentual de ratos: 33.33 %
+Percentual de sapos: 33.33 %
