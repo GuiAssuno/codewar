@@ -1,4 +1,4 @@
-m,p,c = 0
+m = p = c = 0
 
 for _ in range(100):
     x = int(input())
@@ -11,5 +11,5 @@ for _ in range(100):
         m = x
         p = c
 
-print(p)
 print(m)
+print(p)
