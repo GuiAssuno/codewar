@@ -3,13 +3,11 @@ m = [[0]*12] * 12
 som = cont = 0
 
 opc = input()
-linha = int(input())
-
 
 for i in range ((TAM * TAM)):
     m[(i//TAM)][(i%TAM)] = float(input())
 
-    if ((i//TAM)) == linha:
+    if ((i%TAM)) > ((i//TAM)+(i%TAM)) and ((i%TAM) < (TAM)):
         som += m[(i//TAM)][(i%TAM)]
         cont += 1
 
