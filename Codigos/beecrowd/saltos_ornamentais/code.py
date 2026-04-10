@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n = int(input())
 
 
