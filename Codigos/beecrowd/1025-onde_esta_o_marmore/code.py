@@ -51,3 +51,5 @@ while idx < len(entrada):
             print(f'{consulta} not found')
             
     caso += 1
+
+    

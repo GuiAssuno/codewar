@@ -29,3 +29,4 @@ for _ in range(casos):
         saida += pilha.pop()
         
     print(saida)
+    

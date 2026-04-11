@@ -42,7 +42,7 @@ while idx < len(entrada):
             if is_pq:
                 if len(pq) == 0 or -heapq.heappop(pq) != val:
                     is_pq = False
-
+ 
     matches = is_stack + is_queue + is_pq
     
     if matches == 0:
